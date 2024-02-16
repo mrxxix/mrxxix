@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrxxix;
-- 👀 I’m interested in general developing and MTB Downhill;
+- 👀 I’m interested in general software and web developing and automation;
 - 🌱 I’m currently learning Web Developing;
-- 💞️ I’m looking to collaborate on design projects;
+- 🎨 I’m looking to collaborate on design projects;
 - 📫 How to reach me: email to marcospribeiro57@gmail.com.
