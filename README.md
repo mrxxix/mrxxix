@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrxxix;
-- 👀 I’m interested in general software and web developing and automation;
-- 🌱 I’m currently learning Web Developing;
+- 👀 I’m interested in cybersecurity, general software and web developing and automation;
+- 🌱 I’m currently learning security princyples and Python;
 - 🎨 I’m looking to collaborate on design and software development projects;
 - 📫 How to reach me: email to marcospribeiro57@gmail.com.
