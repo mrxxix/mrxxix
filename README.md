@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mrxxix;
+- 📚 Currently in internship at [Falkata Semi](https://github.com/Falkata-Semi) -> [falkatasemi.com](https://falkatasemi.com).
 - 👀 I’m interested in cybersecurity, general software and web developing and automation;
-- 🌱 I’m currently learning security princyples and Python;
+- 🌱 I’m currently learning security princyples and Web Development;
 - 🎨 I’m looking to collaborate on design and software development projects;
 - 📫 How to reach me: email to marcospribeiro57@gmail.com.
